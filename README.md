@@ -84,3 +84,5 @@ Los que tengan decimales desde ,5 a superior, se redondean al alza.
 
 - Si el usuario introduce 4,49, el programa debe devolver un 4
 - Si el usuario introduce 9,5 el programa debe devolver un 10
+
+Ultima modificación como prueba para probar la clase de Git del día uno de abril de 2025 aunque ya estamos a dos de abril.
